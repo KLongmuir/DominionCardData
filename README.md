@@ -6,7 +6,7 @@ Please feel free to submit a Pull Request addressing any mistakes in card data.
 
 ## Sets Included
 
-* Base (1st Edition, 2nd Edition)
+* Dominion (1st Edition, 2nd Edition)
 * Intrigue (1st Edition, 2nd Edition)
 * Seaside
 * Alchemy

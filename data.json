@@ -1,7 +1,7 @@
 [
     {
         "name": "Cellar",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -20,7 +20,7 @@
     },
     {
         "name": "Chapel",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -39,7 +39,7 @@
     },
     {
         "name": "Moat",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action",
             "Reaction"
@@ -59,7 +59,7 @@
     },
     {
         "name": "Chancellor",
-        "set": "Base, 1E",
+        "set": "Dominion, 1E",
         "types": [
             "Action"
         ],
@@ -78,7 +78,7 @@
     },
     {
         "name": "Harbinger",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action"
         ],
@@ -97,7 +97,7 @@
     },
     {
         "name": "Merchant",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action"
         ],
@@ -116,7 +116,7 @@
     },
     {
         "name": "Vassal",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action"
         ],
@@ -135,7 +135,7 @@
     },
     {
         "name": "Village",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -154,7 +154,7 @@
     },
     {
         "name": "Woodcutter",
-        "set": "Base, 1E",
+        "set": "Dominion, 1E",
         "types": [
             "Action"
         ],
@@ -173,7 +173,7 @@
     },
     {
         "name": "Workshop",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -192,7 +192,7 @@
     },
     {
         "name": "Bureaucrat",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action",
             "Attack"
@@ -212,7 +212,7 @@
     },
     {
         "name": "Feast",
-        "set": "Base, 1E",
+        "set": "Dominion, 1E",
         "types": [
             "Action"
         ],
@@ -231,7 +231,7 @@
     },
     {
         "name": "Gardens",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Victory"
         ],
@@ -250,7 +250,7 @@
     },
     {
         "name": "Militia",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action",
             "Attack"
@@ -270,7 +270,7 @@
     },
     {
         "name": "Moneylender",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -289,7 +289,7 @@
     },
     {
         "name": "Poacher",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action"
         ],
@@ -308,7 +308,7 @@
     },
     {
         "name": "Remodel",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -327,7 +327,7 @@
     },
     {
         "name": "Smithy",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -346,7 +346,7 @@
     },
     {
         "name": "Spy",
-        "set": "Base, 1E",
+        "set": "Dominion, 1E",
         "types": [
             "Action",
             "Attack"
@@ -366,7 +366,7 @@
     },
     {
         "name": "Thief",
-        "set": "Base, 1E",
+        "set": "Dominion, 1E",
         "types": [
             "Action",
             "Attack"
@@ -386,7 +386,7 @@
     },
     {
         "name": "Throne Room",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -405,7 +405,7 @@
     },
     {
         "name": "Bandit",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action",
             "Attack"
@@ -425,7 +425,7 @@
     },
     {
         "name": "Council Room",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -444,7 +444,7 @@
     },
     {
         "name": "Festival",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -463,7 +463,7 @@
     },
     {
         "name": "Laboratory",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -482,7 +482,7 @@
     },
     {
         "name": "Library",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -501,7 +501,7 @@
     },
     {
         "name": "Market",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -520,7 +520,7 @@
     },
     {
         "name": "Mine",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action"
         ],
@@ -539,7 +539,7 @@
     },
     {
         "name": "Sentry",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action"
         ],
@@ -558,7 +558,7 @@
     },
     {
         "name": "Witch",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Action",
             "Attack"
@@ -578,7 +578,7 @@
     },
     {
         "name": "Adventurer",
-        "set": "Base, 1E",
+        "set": "Dominion, 1E",
         "types": [
             "Action"
         ],
@@ -597,7 +597,7 @@
     },
     {
         "name": "Artisan",
-        "set": "Base, 2E",
+        "set": "Dominion, 2E",
         "types": [
             "Action"
         ],
@@ -616,7 +616,7 @@
     },
     {
         "name": "Copper",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Treasure"
@@ -636,7 +636,7 @@
     },
     {
         "name": "Silver",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Treasure"
@@ -656,7 +656,7 @@
     },
     {
         "name": "Gold",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Treasure"
@@ -676,7 +676,7 @@
     },
     {
         "name": "Estate",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Victory"
@@ -696,7 +696,7 @@
     },
     {
         "name": "Duchy",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Victory"
@@ -716,7 +716,7 @@
     },
     {
         "name": "Province",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Victory"
@@ -736,7 +736,7 @@
     },
     {
         "name": "Curse",
-        "set": "Base",
+        "set": "Dominion",
         "types": [
             "Basic",
             "Curse"
@@ -1449,7 +1449,7 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "Provide a Native Village mat to each player"
     },
     {
         "name": "Pearl Diver",
@@ -1625,7 +1625,7 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "Provide an Island Ship mat to each player"
     },
     {
         "name": "Navigator",
@@ -1664,7 +1664,7 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "Provide a Pirate Ship mat to each player"
     },
     {
         "name": "Salvager",

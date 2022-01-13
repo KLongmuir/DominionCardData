@@ -16,7 +16,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Chapel",
@@ -35,7 +36,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Moat",
@@ -55,7 +57,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Chancellor",
@@ -74,7 +77,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Harbinger",
@@ -93,7 +97,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Merchant",
@@ -112,7 +117,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Vassal",
@@ -131,7 +137,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Village",
@@ -150,7 +157,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Woodcutter",
@@ -169,7 +177,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Workshop",
@@ -188,7 +197,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bureaucrat",
@@ -208,7 +218,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Feast",
@@ -227,7 +238,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Gardens",
@@ -246,7 +258,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Militia",
@@ -266,7 +279,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Moneylender",
@@ -285,7 +299,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Poacher",
@@ -304,7 +319,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Remodel",
@@ -323,7 +339,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Smithy",
@@ -342,7 +359,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Spy",
@@ -362,7 +380,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Thief",
@@ -382,7 +401,8 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Throne Room",
@@ -401,7 +421,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bandit",
@@ -421,7 +442,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Council Room",
@@ -440,7 +462,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Festival",
@@ -459,7 +482,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Laboratory",
@@ -478,7 +502,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Library",
@@ -497,7 +522,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Market",
@@ -516,7 +542,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mine",
@@ -535,7 +562,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sentry",
@@ -554,7 +582,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Witch",
@@ -574,7 +603,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Adventurer",
@@ -593,7 +623,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Artisan",
@@ -612,13 +643,13 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Copper",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Treasure"
         ],
         "cost": "$0",
@@ -632,13 +663,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Basic"
+        ]
     },
     {
         "name": "Silver",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Treasure"
         ],
         "cost": "$3",
@@ -652,13 +685,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Basic"
+        ]
     },
     {
         "name": "Gold",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Treasure"
         ],
         "cost": "$6",
@@ -672,13 +707,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Basic"
+        ]
     },
     {
         "name": "Estate",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Victory"
         ],
         "cost": "$2",
@@ -692,13 +729,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Basic"
+        ]
     },
     {
         "name": "Duchy",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Victory"
         ],
         "cost": "$5",
@@ -712,13 +751,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+3VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Basic"
+        ]
     },
     {
         "name": "Province",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Victory"
         ],
         "cost": "$8",
@@ -732,13 +773,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+8VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Basic"
+        ]
     },
     {
         "name": "Curse",
         "set": "Dominion",
         "types": [
-            "Basic",
             "Curse"
         ],
         "cost": "$0",
@@ -752,7 +795,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Courtyard",
@@ -771,7 +815,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Lurker",
@@ -790,7 +835,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pawn",
@@ -809,7 +855,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Secret Chamber",
@@ -829,7 +876,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Great Hall",
@@ -849,7 +897,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Masquerade",
@@ -868,7 +917,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Shanty Town",
@@ -887,7 +937,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Steward",
@@ -906,7 +957,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Swindler",
@@ -926,7 +978,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wishing Well",
@@ -945,7 +998,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Baron",
@@ -964,7 +1018,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bridge",
@@ -983,7 +1038,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Conspirator",
@@ -1002,7 +1058,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Coppersmith",
@@ -1021,7 +1078,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Diplomat",
@@ -1041,7 +1099,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ironworks",
@@ -1060,7 +1119,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mill",
@@ -1080,7 +1140,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mining Village",
@@ -1099,7 +1160,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scout",
@@ -1118,7 +1180,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Secret Passage",
@@ -1137,7 +1200,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Courtier",
@@ -1156,7 +1220,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Duke",
@@ -1175,7 +1240,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Minion",
@@ -1195,7 +1261,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Patrol",
@@ -1214,7 +1281,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Replace",
@@ -1234,7 +1302,8 @@
         "junk": "1?",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Saboteur",
@@ -1254,7 +1323,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Torturer",
@@ -1274,7 +1344,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Trading Post",
@@ -1293,7 +1364,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tribute",
@@ -1312,7 +1384,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Upgrade",
@@ -1331,7 +1404,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Harem",
@@ -1351,7 +1425,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Nobles",
@@ -1371,7 +1446,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Embargo",
@@ -1390,7 +1466,8 @@
         "junk": "**1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Haven",
@@ -1410,7 +1487,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Lighthouse",
@@ -1430,7 +1508,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Native Village",
@@ -1449,7 +1528,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Provide a Native Village mat to each player"
+        "setup": "Provide a Native Village mat to each player",
+        "categories": []
     },
     {
         "name": "Pearl Diver",
@@ -1468,7 +1548,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ambassador",
@@ -1488,7 +1569,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fishing Village",
@@ -1508,7 +1590,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Lookout",
@@ -1527,7 +1610,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Smugglers",
@@ -1546,7 +1630,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Warehouse",
@@ -1565,7 +1650,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Caravan",
@@ -1585,7 +1671,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cutpurse",
@@ -1605,7 +1692,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Island",
@@ -1625,7 +1713,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": "Provide an Island Ship mat to each player"
+        "setup": "Provide an Island Ship mat to each player",
+        "categories": []
     },
     {
         "name": "Navigator",
@@ -1644,7 +1733,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pirate Ship",
@@ -1664,7 +1754,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Provide a Pirate Ship mat to each player"
+        "setup": "Provide a Pirate Ship mat to each player",
+        "categories": []
     },
     {
         "name": "Salvager",
@@ -1683,7 +1774,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sea Hag",
@@ -1703,7 +1795,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Treasure Map",
@@ -1722,7 +1815,8 @@
         "junk": "",
         "gain": "4?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bazaar",
@@ -1741,7 +1835,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Explorer",
@@ -1760,7 +1855,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ghost Ship",
@@ -1780,7 +1876,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Merchant Ship",
@@ -1800,7 +1897,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Outpost",
@@ -1820,7 +1918,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tactician",
@@ -1840,7 +1939,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Treasury",
@@ -1859,7 +1959,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wharf",
@@ -1879,7 +1980,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Transmute",
@@ -1898,7 +2000,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Vineyard",
@@ -1917,7 +2020,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Herbalist",
@@ -1936,7 +2040,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Apothecary",
@@ -1955,7 +2060,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scrying Pool",
@@ -1975,7 +2081,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "University",
@@ -1994,7 +2101,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Alchemist",
@@ -2013,7 +2121,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Familiar",
@@ -2033,7 +2142,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Philosopher's Stone",
@@ -2052,7 +2162,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Golem",
@@ -2071,7 +2182,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Apprentice",
@@ -2090,7 +2202,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Possession",
@@ -2109,13 +2222,13 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Potion",
         "set": "Alchemy",
         "types": [
-            "Basic",
             "Treasure"
         ],
         "cost": "$4",
@@ -2129,7 +2242,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "SetBasic"
+        ]
     },
     {
         "name": "Loan",
@@ -2148,7 +2264,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Trade Route",
@@ -2167,7 +2284,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Add a Coin token to each Victory Supply pile; move that token to the Trade Route mat when a card is gained from that pile."
+        "setup": "Add a Coin token to each Victory Supply pile; move that token to the Trade Route mat when a card is gained from that pile.",
+        "categories": []
     },
     {
         "name": "Watchtower",
@@ -2187,7 +2305,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bishop",
@@ -2206,7 +2325,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Monument",
@@ -2225,7 +2345,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Quarry",
@@ -2244,7 +2365,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Talisman",
@@ -2263,7 +2385,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Worker's Village",
@@ -2282,7 +2405,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "City",
@@ -2301,7 +2425,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Contraband",
@@ -2320,7 +2445,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Counting House",
@@ -2339,7 +2465,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mint",
@@ -2358,7 +2485,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mountebank",
@@ -2378,7 +2506,8 @@
         "junk": "2?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Rabble",
@@ -2398,7 +2527,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Royal Seal",
@@ -2417,7 +2547,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Vault",
@@ -2436,7 +2567,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Venture",
@@ -2455,7 +2587,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Goons",
@@ -2475,7 +2608,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Grand Market",
@@ -2494,7 +2628,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hoard",
@@ -2513,7 +2648,8 @@
         "junk": "",
         "gain": "X?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bank",
@@ -2532,7 +2668,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Expand",
@@ -2551,7 +2688,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Forge",
@@ -2570,7 +2708,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "King's Court",
@@ -2589,7 +2728,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Peddler",
@@ -2608,13 +2748,13 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Platinum",
         "set": "Prosperity",
         "types": [
-            "Basic",
             "Treasure"
         ],
         "cost": "$9",
@@ -2628,13 +2768,15 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "SetBasic"
+        ]
     },
     {
         "name": "Colony",
         "set": "Prosperity",
         "types": [
-            "Basic",
             "Victory"
         ],
         "cost": "$11",
@@ -2648,7 +2790,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "SetBasic"
+        ]
     },
     {
         "name": "Hamlet",
@@ -2667,7 +2812,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fortune Teller",
@@ -2687,7 +2833,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Menagerie",
@@ -2706,7 +2853,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Farming Village",
@@ -2725,7 +2873,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Horse Traders",
@@ -2745,7 +2894,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Remake",
@@ -2764,7 +2914,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tournament",
@@ -2783,7 +2934,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "(+3VP?)",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Young Witch",
@@ -2803,7 +2955,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Add an extra Kingdom card pile costing $3 to the Supply. Cards from that pile are Bane cards."
+        "setup": "Add an extra Kingdom card pile costing $3 to the Supply. Cards from that pile are Bane cards.",
+        "categories": []
     },
     {
         "name": "Harvest",
@@ -2822,7 +2975,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Horn of Plenty",
@@ -2841,7 +2995,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hunting Party",
@@ -2860,7 +3015,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Jester",
@@ -2880,7 +3036,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fairgrounds",
@@ -2899,7 +3056,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bag of Gold",
@@ -2919,7 +3077,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Diadem",
@@ -2939,7 +3098,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Followers",
@@ -2960,7 +3120,8 @@
         "junk": "1",
         "gain": "1",
         "victoryPoints": "(+1VP)",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Princess",
@@ -2980,7 +3141,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Trusty Steed",
@@ -3000,7 +3162,8 @@
         "junk": "",
         "gain": "4?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Crossroads",
@@ -3019,7 +3182,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Duchess",
@@ -3038,7 +3202,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fool's Gold",
@@ -3058,7 +3223,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Develop",
@@ -3077,7 +3243,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Oasis",
@@ -3096,7 +3263,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Oracle",
@@ -3116,7 +3284,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scheme",
@@ -3135,7 +3304,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tunnel",
@@ -3155,7 +3325,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Jack of All Trades",
@@ -3174,7 +3345,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Noble Brigand",
@@ -3194,7 +3366,8 @@
         "junk": "1?*1?",
         "gain": "X*X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Nomad Camp",
@@ -3213,7 +3386,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Silk Road",
@@ -3232,7 +3406,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Spice Merchant",
@@ -3251,7 +3426,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Trader",
@@ -3271,7 +3447,8 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cache",
@@ -3290,7 +3467,8 @@
         "junk": "*2 Self?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cartographer",
@@ -3309,7 +3487,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Embassy",
@@ -3328,7 +3507,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Haggler",
@@ -3347,7 +3527,8 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Highway",
@@ -3366,7 +3547,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ill-Gotten Gains",
@@ -3385,7 +3567,8 @@
         "junk": "Self?*1",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Inn",
@@ -3404,7 +3587,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mandarin",
@@ -3423,7 +3607,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Margrave",
@@ -3443,7 +3628,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Stables",
@@ -3462,7 +3648,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Border Village",
@@ -3481,7 +3668,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Farmland",
@@ -3500,7 +3688,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Poor House",
@@ -3519,7 +3708,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Beggar",
@@ -3539,7 +3729,8 @@
         "junk": "3 Self",
         "gain": "3*2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Squire",
@@ -3558,7 +3749,8 @@
         "junk": "",
         "gain": "1?*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Vagrant",
@@ -3577,7 +3769,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Forager",
@@ -3596,7 +3789,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hermit",
@@ -3615,7 +3809,8 @@
         "junk": "",
         "gain": "1, 1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Market Square",
@@ -3635,7 +3830,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sage",
@@ -3654,7 +3850,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Storeroom",
@@ -3673,7 +3870,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Urchin",
@@ -3693,7 +3891,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Armory",
@@ -3712,7 +3911,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Death Cart",
@@ -3732,7 +3932,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Feodum",
@@ -3751,7 +3952,8 @@
         "junk": "",
         "gain": "*3",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fortress",
@@ -3770,7 +3972,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ironmonger",
@@ -3789,7 +3992,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Marauder",
@@ -3810,7 +4014,8 @@
         "junk": "1",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Procession",
@@ -3829,7 +4034,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Rats",
@@ -3848,7 +4054,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scavenger",
@@ -3867,7 +4074,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wandering Minstrel",
@@ -3886,7 +4094,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Band of Misfits",
@@ -3906,7 +4115,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bandit Camp",
@@ -3925,7 +4135,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Catacombs",
@@ -3944,7 +4155,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Count",
@@ -3963,7 +4175,8 @@
         "junk": "Self?",
         "gain": "1?, 1?",
         "victoryPoints": "(+3VP?)",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Counterfeit",
@@ -3982,7 +4195,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cultist",
@@ -4003,7 +4217,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Graverobber",
@@ -4022,7 +4237,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Junk Dealer",
@@ -4041,7 +4257,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mystic",
@@ -4060,7 +4277,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pillage",
@@ -4080,7 +4298,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Rebuild",
@@ -4099,7 +4318,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Rogue",
@@ -4119,7 +4339,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Altar",
@@ -4138,7 +4359,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hunting Grounds",
@@ -4157,7 +4379,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "*(+3VP)",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Abandoned Mine",
@@ -4177,7 +4400,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ruined Library",
@@ -4197,7 +4421,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ruined Market",
@@ -4217,7 +4442,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ruined Village",
@@ -4237,7 +4463,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Survivors",
@@ -4257,7 +4484,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dame Anna",
@@ -4278,7 +4506,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dame Josephine",
@@ -4300,7 +4529,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dame Molly",
@@ -4321,7 +4551,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dame Natalie",
@@ -4342,7 +4573,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dame Sylvia",
@@ -4363,7 +4595,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sir Bailey",
@@ -4384,7 +4617,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sir Destry",
@@ -4405,7 +4639,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sir Martin",
@@ -4426,7 +4661,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sir Michael",
@@ -4447,7 +4683,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sir Vander",
@@ -4468,7 +4705,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Madman",
@@ -4487,7 +4725,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mercenary",
@@ -4507,7 +4746,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Spoils",
@@ -4526,7 +4766,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hovel",
@@ -4546,7 +4787,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Necropolis",
@@ -4566,7 +4808,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Overgrown Estate",
@@ -4586,7 +4829,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+0VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Candlestick Maker",
@@ -4605,7 +4849,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Stonemason",
@@ -4624,7 +4869,8 @@
         "junk": "",
         "gain": "2*2?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Doctor",
@@ -4643,7 +4889,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Masterpiece",
@@ -4662,7 +4909,8 @@
         "junk": "",
         "gain": "*X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Advisor",
@@ -4681,7 +4929,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Herald",
@@ -4700,7 +4949,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Plaza",
@@ -4719,7 +4969,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Taxman",
@@ -4739,7 +4990,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Baker",
@@ -4758,7 +5010,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Each player gets +1 Coffers."
+        "setup": "Each player gets +1 Coffers.",
+        "categories": []
     },
     {
         "name": "Butcher",
@@ -4777,7 +5030,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Journeyman",
@@ -4796,7 +5050,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Merchant Guild",
@@ -4815,7 +5070,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Soothsayer",
@@ -4835,7 +5091,8 @@
         "junk": "1",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Coin of the Realm",
@@ -4855,7 +5112,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Page",
@@ -4875,7 +5133,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Peasant",
@@ -4895,7 +5154,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ratcatcher",
@@ -4915,7 +5175,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Raze",
@@ -4934,7 +5195,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Amulet",
@@ -4954,7 +5216,8 @@
         "junk": "",
         "gain": "1?, N 1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Caravan Guard",
@@ -4975,7 +5238,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dungeon",
@@ -4995,7 +5259,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Gear",
@@ -5015,7 +5280,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Guide",
@@ -5035,7 +5301,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Duplicate",
@@ -5055,7 +5322,8 @@
         "junk": "",
         "gain": "C1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Magpie",
@@ -5074,7 +5342,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Messenger",
@@ -5093,7 +5362,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Miser",
@@ -5112,7 +5382,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Port",
@@ -5131,7 +5402,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ranger",
@@ -5150,7 +5422,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Transmogrify",
@@ -5170,7 +5443,8 @@
         "junk": "",
         "gain": "C1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Artificer",
@@ -5189,7 +5463,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bridge Troll",
@@ -5210,7 +5485,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Distant Lands",
@@ -5231,7 +5507,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+4VP?",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Giant",
@@ -5251,7 +5528,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Haunted Woods",
@@ -5272,7 +5550,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Lost City",
@@ -5291,7 +5570,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Relic",
@@ -5311,7 +5591,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Royal Carriage",
@@ -5331,7 +5612,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Storyteller",
@@ -5350,7 +5632,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Swamp Hag",
@@ -5371,7 +5654,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Treasure Trove",
@@ -5390,7 +5674,8 @@
         "junk": "Self?",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wine Merchant",
@@ -5410,7 +5695,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hireling",
@@ -5430,7 +5716,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Alms",
@@ -5449,7 +5736,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Borrow",
@@ -5468,7 +5758,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Quest",
@@ -5487,7 +5780,10 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Save",
@@ -5506,7 +5802,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Scouting Party",
@@ -5525,7 +5824,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Travelling Fair",
@@ -5544,7 +5846,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Bonfire",
@@ -5563,7 +5868,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Expedition",
@@ -5582,7 +5890,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Ferry",
@@ -5601,7 +5912,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Plan",
@@ -5620,7 +5934,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Mission",
@@ -5639,7 +5956,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Pilgrimage",
@@ -5658,7 +5978,10 @@
         "junk": "",
         "gain": "3?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Ball",
@@ -5677,7 +6000,10 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Raid",
@@ -5696,7 +6022,10 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Seaway",
@@ -5715,7 +6044,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Trade",
@@ -5734,7 +6066,10 @@
         "junk": "",
         "gain": "0-2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Lost Arts",
@@ -5753,7 +6088,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Training",
@@ -5772,7 +6110,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Inheritance",
@@ -5791,7 +6132,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Pathfinding",
@@ -5810,7 +6154,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Soldier",
@@ -5831,7 +6178,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fugitive",
@@ -5851,7 +6199,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Disciple",
@@ -5871,7 +6220,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Teacher",
@@ -5891,7 +6241,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Treasure Hunter",
@@ -5911,7 +6262,8 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Warrior",
@@ -5932,7 +6284,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hero",
@@ -5952,7 +6305,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Champion",
@@ -5972,7 +6326,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Engineer",
@@ -5991,7 +6346,8 @@
         "junk": "",
         "gain": "1, 1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "City Quarter",
@@ -6010,7 +6366,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Royal Blacksmith",
@@ -6029,7 +6386,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Overlord",
@@ -6049,7 +6407,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Encampment",
@@ -6068,7 +6427,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Patrician",
@@ -6087,7 +6447,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Settlers",
@@ -6106,7 +6467,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Catapult",
@@ -6126,7 +6488,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Chariot Race",
@@ -6145,7 +6508,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP?",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Enchantress",
@@ -6166,7 +6530,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Farmers' Market",
@@ -6186,7 +6551,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+VP?",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Gladiator",
@@ -6205,7 +6571,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Rocks",
@@ -6224,7 +6591,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sacrifice",
@@ -6243,7 +6611,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP?",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Temple",
@@ -6263,7 +6632,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP,*+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Villa",
@@ -6282,7 +6652,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Archive",
@@ -6302,7 +6673,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bustling Village",
@@ -6321,7 +6693,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Capital",
@@ -6340,7 +6713,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Charm",
@@ -6359,7 +6733,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Crown",
@@ -6379,7 +6754,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Emporium",
@@ -6398,7 +6774,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "*+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Forum",
@@ -6417,7 +6794,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Groundskeeper",
@@ -6436,7 +6814,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Legionary",
@@ -6456,7 +6835,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Plunder",
@@ -6475,7 +6855,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wild Hunt",
@@ -6495,7 +6876,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "(+1VP)+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fortune",
@@ -6514,7 +6896,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Humble Castle",
@@ -6535,7 +6918,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Crumbling Castle",
@@ -6555,7 +6939,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "1VP, *+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Small Castle",
@@ -6576,7 +6961,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Haunted Castle",
@@ -6596,7 +6982,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Opulent Castle",
@@ -6617,7 +7004,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+3VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sprawling Castle",
@@ -6637,7 +7025,8 @@
         "junk": "",
         "gain": "*1-3",
         "victoryPoints": "+4VP, +3VP?",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Grand Castle",
@@ -6657,7 +7046,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+5VP, +XVP?",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "King's Castle",
@@ -6677,7 +7067,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Triumph",
@@ -6696,7 +7087,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "(+1VP)+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Annex",
@@ -6715,7 +7109,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "(+3VP)",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Donate",
@@ -6734,7 +7131,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Advance",
@@ -6753,7 +7153,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Delve",
@@ -6772,7 +7175,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Tax",
@@ -6791,7 +7197,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Add 1DBT to each Supply pile. When a player buys a card, they take the DBT from its pile."
+        "setup": "Add 1DBT to each Supply pile. When a player buys a card, they take the DBT from its pile.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Banquet",
@@ -6810,7 +7219,10 @@
         "junk": "",
         "gain": "3",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Ritual",
@@ -6829,7 +7241,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Salt the Earth",
@@ -6848,7 +7263,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Wedding",
@@ -6867,7 +7285,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "+1VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Windfall",
@@ -6886,7 +7307,10 @@
         "junk": "",
         "gain": "3",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Conquest",
@@ -6905,7 +7329,10 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Dominate",
@@ -6924,7 +7351,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "+6, +9?",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Aqueduct",
@@ -6943,7 +7373,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": "Put +8VP on the Silver and Gold piles."
+        "setup": "Put +8VP on the Silver and Gold piles.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Arena",
@@ -6962,7 +7395,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Bandit Fort",
@@ -6981,7 +7417,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-2VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Basilica",
@@ -7000,7 +7439,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": "Put +6VP here per player."
+        "setup": "Put +6VP here per player.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Battlefield",
@@ -7019,7 +7461,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": "Put 6VP here per player."
+        "setup": "Put 6VP here per player.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Baths",
@@ -7038,7 +7483,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": "Put +6VP here per player."
+        "setup": "Put +6VP here per player.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Colonnade",
@@ -7057,7 +7505,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": "Put +6VP here per player."
+        "setup": "Put +6VP here per player.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Defiled Shrine",
@@ -7076,7 +7527,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": "Put +2VP on each non-Gathering Action Supply pile."
+        "setup": "Put +2VP on each non-Gathering Action Supply pile.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Fountain",
@@ -7095,7 +7549,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+15?",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Keep",
@@ -7114,7 +7571,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Labyrinth",
@@ -7133,7 +7593,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Mountain Pass",
@@ -7152,7 +7615,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+8VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Museum",
@@ -7171,7 +7637,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Obelisk",
@@ -7190,7 +7659,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": "Choose a random Action Supply pile."
+        "setup": "Choose a random Action Supply pile.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Orchard",
@@ -7209,7 +7681,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Palace",
@@ -7228,7 +7703,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Tomb",
@@ -7247,7 +7725,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Tower",
@@ -7266,7 +7747,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Triumphal Arch",
@@ -7285,7 +7769,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Wall",
@@ -7304,7 +7791,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Wolf Den",
@@ -7323,7 +7813,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-XVP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Druid",
@@ -7343,7 +7836,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Set aside the top 3 Boons face up."
+        "setup": "Set aside the top 3 Boons face up.",
+        "categories": []
     },
     {
         "name": "Faithful Hound",
@@ -7363,7 +7857,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Guardian",
@@ -7383,7 +7878,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Monastery",
@@ -7402,7 +7898,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pixie",
@@ -7422,7 +7919,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tracker",
@@ -7442,7 +7940,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Changeling",
@@ -7461,7 +7960,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fool",
@@ -7481,7 +7981,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ghost Town",
@@ -7501,7 +8002,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Leprechaun",
@@ -7521,7 +8023,8 @@
         "junk": "",
         "gain": "1, 1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Night Watchman",
@@ -7540,7 +8043,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Secret Cave",
@@ -7560,7 +8064,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bard",
@@ -7580,7 +8085,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Blessed Village",
@@ -7600,7 +8106,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cemetery",
@@ -7619,7 +8126,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Conclave",
@@ -7638,7 +8146,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Devil's Workshop",
@@ -7657,7 +8166,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Exorcist",
@@ -7676,7 +8186,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Necromancer",
@@ -7695,7 +8206,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Put the 3 Zombies into the trash."
+        "setup": "Put the 3 Zombies into the trash.",
+        "categories": []
     },
     {
         "name": "Shepherd",
@@ -7714,7 +8226,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Skulk",
@@ -7735,7 +8248,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cobbler",
@@ -7755,7 +8269,8 @@
         "junk": "",
         "gain": "N 1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Crypt",
@@ -7775,7 +8290,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cursed Village",
@@ -7795,7 +8311,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Den of Sin",
@@ -7815,7 +8332,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Idol",
@@ -7836,7 +8354,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pooka",
@@ -7855,7 +8374,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sacred Grove",
@@ -7875,7 +8395,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tormentor",
@@ -7896,7 +8417,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Tragic Hero",
@@ -7915,7 +8437,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Vampire",
@@ -7936,7 +8459,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Werewolf",
@@ -7958,7 +8482,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Raider",
@@ -7979,7 +8504,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Will-o'-Wisp",
@@ -7999,7 +8525,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wish",
@@ -8018,7 +8545,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bat",
@@ -8037,7 +8565,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Imp",
@@ -8057,7 +8586,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ghost",
@@ -8078,7 +8608,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Zombie Apprentice",
@@ -8098,7 +8629,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Zombie Mason",
@@ -8118,7 +8650,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Zombie Spy",
@@ -8138,7 +8671,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Haunted Mirror",
@@ -8158,7 +8692,8 @@
         "junk": "",
         "gain": "*1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Magic Lamp",
@@ -8178,7 +8713,8 @@
         "junk": "",
         "gain": "3?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Goat",
@@ -8198,7 +8734,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pasture",
@@ -8219,7 +8756,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "+XVP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Pouch",
@@ -8239,7 +8777,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cursed Gold",
@@ -8259,7 +8798,8 @@
         "junk": "Self",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Lucky Coin",
@@ -8279,7 +8819,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "The Earth's Gift",
@@ -8298,7 +8839,10 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Field's Gift",
@@ -8317,7 +8861,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Flame's Gift",
@@ -8336,7 +8883,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Forest's Gift",
@@ -8355,7 +8905,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Moon's Gift",
@@ -8374,7 +8927,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Mountain's Gift",
@@ -8393,7 +8949,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The River's Gift",
@@ -8412,7 +8971,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Sea's Gift",
@@ -8431,7 +8993,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Sky's Gift",
@@ -8450,7 +9015,10 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Sun's Gift",
@@ -8469,7 +9037,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Swamp's Gift",
@@ -8488,7 +9059,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "The Wind's Gift",
@@ -8507,7 +9081,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Bad Omens",
@@ -8526,7 +9103,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Delusion",
@@ -8545,7 +9123,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Envy",
@@ -8564,7 +9143,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Famine",
@@ -8583,7 +9163,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fear",
@@ -8602,7 +9183,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Greed",
@@ -8621,7 +9203,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Haunting",
@@ -8640,7 +9223,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Locusts",
@@ -8659,7 +9243,8 @@
         "junk": "1?",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Misery",
@@ -8678,7 +9263,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-2VP",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Plague",
@@ -8697,7 +9283,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Poverty",
@@ -8716,7 +9303,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "War",
@@ -8735,7 +9323,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Deluded",
@@ -8754,7 +9343,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Envious",
@@ -8773,7 +9365,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Lost in the Woods",
@@ -8792,7 +9387,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Miserable",
@@ -8811,7 +9409,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-2VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Twice Miserable",
@@ -8830,7 +9431,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "-4VP",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Border Guard",
@@ -8849,7 +9453,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Ducat",
@@ -8868,7 +9473,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Lackeys",
@@ -8887,7 +9493,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Acting Troupe",
@@ -8906,7 +9513,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cargo Ship",
@@ -8926,7 +9534,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Experiment",
@@ -8945,7 +9554,8 @@
         "junk": "",
         "gain": "*1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Improve",
@@ -8964,7 +9574,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Flag Bearer",
@@ -8983,7 +9594,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hideout",
@@ -9002,7 +9614,8 @@
         "junk": "Self?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Inventor",
@@ -9021,7 +9634,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mountain Village",
@@ -9040,7 +9654,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Patron",
@@ -9060,7 +9675,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Priest",
@@ -9079,7 +9695,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Research",
@@ -9099,7 +9716,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Silk Merchant",
@@ -9118,7 +9736,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Old Witch",
@@ -9138,7 +9757,8 @@
         "junk": "1",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Recruiter",
@@ -9157,7 +9777,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scepter",
@@ -9176,7 +9797,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scholar",
@@ -9195,7 +9817,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sculptor",
@@ -9214,7 +9837,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Seer",
@@ -9233,7 +9857,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Spices",
@@ -9252,7 +9877,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Swashbuckler",
@@ -9271,7 +9897,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Treasurer",
@@ -9290,7 +9917,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Villain",
@@ -9310,7 +9938,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Flag",
@@ -9329,7 +9958,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Horn",
@@ -9348,7 +9980,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Key",
@@ -9367,7 +10002,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Lantern",
@@ -9386,7 +10024,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Treasure Chest",
@@ -9405,7 +10046,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Cathedral",
@@ -9424,7 +10068,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "City Gate",
@@ -9443,7 +10090,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Pageant",
@@ -9462,7 +10112,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Sewers",
@@ -9481,7 +10134,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Star Chart",
@@ -9500,7 +10156,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Exploration",
@@ -9519,7 +10178,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Fair",
@@ -9538,7 +10200,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Silos",
@@ -9557,7 +10222,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Sinister Plot",
@@ -9576,7 +10244,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Academy",
@@ -9595,7 +10266,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Capitalism",
@@ -9614,7 +10288,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Fleet",
@@ -9633,7 +10310,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Guildhall",
@@ -9652,7 +10332,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Piazza",
@@ -9671,7 +10354,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Road Network",
@@ -9690,7 +10376,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Barracks",
@@ -9709,7 +10398,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Crop Rotation",
@@ -9728,7 +10420,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Innovation",
@@ -9747,7 +10442,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Canal",
@@ -9766,7 +10464,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Citadel",
@@ -9785,7 +10486,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Black Cat",
@@ -9806,7 +10510,8 @@
         "junk": "1?",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sleigh",
@@ -9826,7 +10531,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Supplies",
@@ -9845,7 +10551,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Horse",
@@ -9864,7 +10571,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Camel Train",
@@ -9883,7 +10591,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Goatherd",
@@ -9902,7 +10611,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Scrap",
@@ -9921,7 +10631,8 @@
         "junk": "",
         "gain": "0-2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sheepdog",
@@ -9941,7 +10652,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Snowy Village",
@@ -9960,7 +10672,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Stockpile",
@@ -9979,7 +10692,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Bounty Hunter",
@@ -9998,7 +10712,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cardinal",
@@ -10018,7 +10733,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Cavalry",
@@ -10037,7 +10753,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Groom",
@@ -10056,7 +10773,8 @@
         "junk": "",
         "gain": "1, 1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hostelry",
@@ -10075,7 +10793,8 @@
         "junk": "",
         "gain": "*X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Village Green",
@@ -10096,7 +10815,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Fisherman",
@@ -10115,7 +10835,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Hunting Lodge",
@@ -10134,7 +10855,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Barge",
@@ -10154,7 +10876,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Coven",
@@ -10174,7 +10897,8 @@
         "junk": "1*",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Displace",
@@ -10193,7 +10917,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Falconer",
@@ -10213,7 +10938,8 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Gatekeeper",
@@ -10234,7 +10960,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Kiln",
@@ -10253,7 +10980,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Livery",
@@ -10272,7 +11000,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Mastermind",
@@ -10292,7 +11021,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Paddock",
@@ -10311,7 +11041,8 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sanctuary",
@@ -10330,7 +11061,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Destrier",
@@ -10349,7 +11081,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Wayfarer",
@@ -10368,7 +11101,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Animal Fair",
@@ -10387,7 +11121,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Delay",
@@ -10406,7 +11141,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Desperation",
@@ -10425,7 +11163,10 @@
         "junk": "Self",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Gamble",
@@ -10444,7 +11185,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Pursue",
@@ -10463,7 +11207,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Ride",
@@ -10482,7 +11229,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Toil",
@@ -10501,7 +11251,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Enhance",
@@ -10520,7 +11273,10 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "March",
@@ -10539,7 +11295,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Transport",
@@ -10558,7 +11317,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Banish",
@@ -10577,7 +11339,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Bargain",
@@ -10596,7 +11361,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Invest",
@@ -10615,7 +11383,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Seize the Day",
@@ -10634,7 +11405,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Commerce",
@@ -10653,7 +11427,10 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Demand",
@@ -10672,7 +11449,10 @@
         "junk": "",
         "gain": "2",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Stampede",
@@ -10691,7 +11471,10 @@
         "junk": "",
         "gain": "5",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Reap",
@@ -10710,7 +11493,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Enclave",
@@ -10729,7 +11515,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "(+3VP)",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Alliance",
@@ -10748,7 +11537,10 @@
         "junk": "",
         "gain": "6",
         "victoryPoints": "(+10VP)",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Populate",
@@ -10767,7 +11559,10 @@
         "junk": "",
         "gain": "X",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Butterfly",
@@ -10786,7 +11581,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Camel",
@@ -10805,7 +11603,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Chameleon",
@@ -10824,7 +11625,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Frog",
@@ -10843,7 +11647,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Goat",
@@ -10862,7 +11669,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Horse",
@@ -10881,7 +11691,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Mole",
@@ -10900,7 +11713,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Monkey",
@@ -10919,7 +11735,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Mouse",
@@ -10938,7 +11757,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Set aside an unused Action costing $3."
+        "setup": "Set aside an unused Action costing $3.",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Mule",
@@ -10957,7 +11779,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Otter",
@@ -10976,7 +11801,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Ox",
@@ -10995,7 +11823,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Owl",
@@ -11014,7 +11845,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Pig",
@@ -11033,7 +11867,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Rat",
@@ -11052,7 +11889,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Seal",
@@ -11071,7 +11911,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Sheep",
@@ -11090,7 +11933,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Squirrel",
@@ -11109,7 +11955,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Turtle",
@@ -11128,7 +11977,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Way of the Worm",
@@ -11147,7 +11999,10 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "(+1VP)",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Black Market",
@@ -11166,7 +12021,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": "Make a Black Market deck out of different unused Kingdom cards."
+        "setup": "Make a Black Market deck out of different unused Kingdom cards.",
+        "categories": []
     },
     {
         "name": "Church",
@@ -11186,7 +12042,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Dismantle",
@@ -11205,7 +12062,8 @@
         "junk": "",
         "gain": "2?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Envoy",
@@ -11224,7 +12082,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Sauna",
@@ -11243,7 +12102,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Walled Village",
@@ -11262,7 +12122,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Avanto",
@@ -11281,7 +12142,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Governor",
@@ -11300,7 +12162,8 @@
         "junk": "",
         "gain": "1?",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Stash",
@@ -11319,7 +12182,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Summon",
@@ -11338,7 +12202,10 @@
         "junk": "",
         "gain": "1",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": [
+            "Landscape"
+        ]
     },
     {
         "name": "Captain",
@@ -11359,7 +12226,8 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     },
     {
         "name": "Prince",
@@ -11378,6 +12246,7 @@
         "junk": "",
         "gain": "",
         "victoryPoints": "",
-        "setup": ""
+        "setup": "",
+        "categories": []
     }
 ]

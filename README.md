@@ -43,6 +43,7 @@ interface Card {
     gain: string;
     victoryPoints: string;
     setup: string;
+    categories: string[];
 }
 ```
 
@@ -50,7 +51,15 @@ interface Card {
 
 The `types: string[]` property of a given `Card` is a list representing all the types that a Card has (e.g. the card "Moat" has `.types` equal to `["Action", "Reaction"]`).
 
-A custom type called `Basic` is added to denote cards that are basic Supply cards across all sets. This type does not appear anywhere on the printed card itself, but is used to denote basic supply cards that are always placed in a Kingdom no mater the 10 card Kingdom makeup (e.g Copper, Estate, Curse, Potion, etc.)
+### Categories
+
+The `categories: string[]` property includes convenience identifiers for many card types. These identifiers cannot be found on the printed card itself.
+
+#### Category Values
+
+* `Basic` denotes cards that are basic Supply cards included in every game. These are the basic supply cards in Base Dominion (Copper, Silver, Gold, Estate, Duchy, Province, Curse)
+* `SetBasic` denotes cards that are basic Supply cards, but only in their Set (e.g. "Platinum" and "Colony" are `SetBasic` cards, because they should be in the supply when playing with the "Prosperity" set)
+* `Landscape` denotes cards that are *not* included in the Kingdom list, but are still part of the game (e.g. Landmarks, Ways, Events, etc.). The full list can be found [here](http://wiki.dominionstrategy.com/index.php/Landscape) on the Dominion Wiki.
 
 ## Guide to the Data Values
 

@@ -59,7 +59,7 @@ The `categories: string[]` property includes convenience identifiers for many ca
 
 * `Basic` denotes cards that are basic Supply cards included in every game. These are the basic supply cards in Base Dominion (Copper, Silver, Gold, Estate, Duchy, Province, Curse)
 * `SetBasic` denotes cards that are basic Supply cards, but only in their Set (e.g. "Platinum" and "Colony" are `SetBasic` cards, because they should be in the supply when playing with the "Prosperity" set)
-* `Landscape` denotes cards that are *not* included in the Kingdom list, but are still part of the game (e.g. Landmarks, Ways, Events, etc.). The full list can be found [here](http://wiki.dominionstrategy.com/index.php/Landscape) on the Dominion Wiki.
+* `Landscape` denotes cards that are formatted in landscape orientation. These cards *not* Kingdom cards, meaning they do not count towards the 10 card piles in the Supply. (e.g. Landmarks, Ways, Events, etc.). The full list can be found [here](http://wiki.dominionstrategy.com/index.php/Landscape) on the Dominion Wiki.
 
 ## Guide to the Data Values
 
